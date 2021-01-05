@@ -1,4 +1,4 @@
-# COVID-19-in-Germany-V/S-Rest-Of-World
+# COVID-19 Trends in Deutschland
 
 ## To analyse and visualize COVID-19
 
