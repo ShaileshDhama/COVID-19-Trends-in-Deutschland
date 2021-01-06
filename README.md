@@ -130,7 +130,7 @@ de_state.*: Geospatial shape files for Germany's 16 federal states. Downloaded v
 
 ### For further information:
 
-Please review the narrative of our analysis in [our jupyter notebook](./Netflix%20Recommendation%20System.ipynb)
+Please review the narrative of our analysis in [our jupyter notebook](./covid19-eda-comparison-between-india-germany.ipynb)
 
 For any additional questions, please contact **shaileshettyd@gmail.com)
 
@@ -153,6 +153,6 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/geospatial-demographics-analysis.ipynb}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/COVID-19-Trends-in-Deutschland}}
 }
 ```
