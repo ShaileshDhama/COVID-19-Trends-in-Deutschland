@@ -30,74 +30,103 @@ de_state.*: Geospatial shape files for Germany's 16 federal states. Downloaded v
            
 ## RESULTS :
 
-#### Content Distribution
-![Content Distribution](./FLIX_1.png)
+#### Top-10 country most affected by COVID-19
+![Top-10 country most affected by COVID-19](./COVID_1.png)
 
-#### Missing Values in dataset
-![Missing Values in dataset](./FLIX_2.png)
+#### Top-10 country most killed by COVID-19
+![Top-10 country most killed by COVID-19](./COVID_2.png)
 
-#### Movie ratings analysis
-![Movie ratings analysis](./FLIX_3.png)
+#### COVID-19 confirmed case distribution
+![COVID-19 confirmed case distribution](./COVID_3.png)
+![COVID-19 confirmed case distribution](./COVID_4.png)
 
-#### Content type on Netflix:
-![Content type on Netflix:](./FLIX_4.png)
+#### 6 countries having huge COVID-19 confirmed cases in the world
+![6 countries having huge COVID-19 confirmed cases in the world](./COVID_5.png)
 
-#### Content added over the years
-![Content added over the years](./FLIX_5.png)
-![Content added over the years](./FLIX_6.png)
+#### 6 countries having huge COVID-19 deaths in the world
+![6 countries having huge COVID-19 deaths in the world](./COVID_6.png)
 
-#### Types of Genres
-![Types of Genres in Movie](./FLIX_7.png)
-![Types of Genres in Series](./FLIX_8.png)
+#### SARS-COV2 cases in the worldwide
+![SARS-COV2 cases](./COVID_7.png)
 
-#### Distribution of Movie Rating
-![Distribution of Movie Rating](./FLIX_9.png)
+#### SARS-COV2 fatalities in the worldwide
+![SARS-COV2 fatalities in the worldwide](./COVID_8.png)
 
-#### Distribution of TV Show Rating
-![Distribution of TV Show Rating](./FLIX_10.png)
+#### COVID-19 most affected cases in the 20 countries
+![COVID-19 most affected](./COVID_9.png)
 
-#### Normal distribution for Movies
-![Normal distribution for Movies](./FLIX_11.png)
+#### SARS-COV2 incidence per 100000 inhabitants
+![SARS-COV2 incidence per 100000 inhabitants](./COVID_14.png)
 
-#### Countplot for Seasons in TV_Shows
-![Countplot for Seasons in TV_Shows](./FLIX_12.png)
+#### SARS-COV2 new cases worldwide
+![SARS-COV2 new cases worldwide](./COVID_16.png)
 
-#### Percentage of Seasons in TV_Shows
-![Percentage of Seasons in TV_Shows](./FLIX_13.png)
+#### SARS-COV2 new fatalities worldwide
+![SARS-COV2 new fatalities worldwide](./COVID_18.png)
 
-#### Top-10 Genre in Movies
-![Top-10 Genre in Movies](./FLIX_14.png)
+#### SARS-COV2 lethality worldwide
+![SARS-COV2 lethality worldwide](./COVID_20.png)
 
-#### Top-10 Genre in TV Shows
-![Top-10 Genre in TV Shows](./FLIX_15.png)
+#### Population and population density
+![Population and population density](./COVID_22.png)
 
-#### Content creating countries
-![Content creating countries](./FLIX_16.png)
+#### Cases and deaths per state
+![Cases and deaths per state](./COVID_23.png)
 
-#### Number of Seasons in Web-Series
-![Number of Seasons in Web-Series](./FLIX_17.png)
+#### Cases normalised to population
+![Number of Seasons in Web-Series](./COVID_24.png)
 
-#### Web-Series with 1 Season
-![Web-Series with 1 Season](./FLIX_18.png)
+#### Deaths normalised to population
+![Web-Series with 1 Season](./COVID_25.png)
 
-#### Oldest US Web-Series
-![Oldest US Web-Series](./FLIX_19.png)
+#### Cases in counties over their mean
+![Cases in counties over their mean](./COVID_26.png)
 
-#### Newest US Web-Series
-![Newest US Web-Series](./FLIX_20.png)
+#### Hot-Spots in Germany
+![Hot-Spots in Germany](./COVID_27.png)
 
-#### Netflix German Content
-![Netflix German Content](./FLIX_21.png)
+#### Time dependence
+![Time dependence](./COVID_28.png)
+![Time dependence](./COVID_29.png)
 
-#### Newest German Web-Series
-![Newest German Web-Series](./FLIX_22.png)
+#### Age and Gender dependence
+![Age and Gender dependence](./COVID_30.png)
 
-#### Content-Based Recommendation System
-![Content-Based Recommendation System](./FLIX_24.png)
-![Content-Based Recommendation System](./FLIX_25.png)
-![Content-Based Recommendation System](./FLIX_26.png)
-![Content-Based Recommendation System](./FLIX_27.png)
-![Content-Based Recommendation System](./FLIX_28.png)
+#### Development of Confirmed Cases in Germany
+![Development of Confirmed Cases in Germany](./COVID_31.png)
+
+#### Incremental Development of Confirmed Cases in Germany
+![Incremental Development of Confirmed Cases in Germany](./COVID_32.png)
+
+#### Relative Changes of Confirmed Cases in Germany
+![Relative Changes of Confirmed Cases in Germany](./COVID_35.png)
+
+#### COVID-19 Impacts during weekdays
+![COVID-19 Impacts during weekdays](./COVID_38.png)
+
+#### COVID-19 Logarithmic Impacts during weekdays
+![COVID-19 Logarithmic Impacts during weekdays](./COVID_39.png)
+![COVID-19 Logarithmic Impacts during weekdays](./COVID_40.png)
+
+#### Incremental Deaths vs Incremental Cases in Germany
+![Incremental Deaths vs Incremental Cases in Germany](./COVID_51.png)
+
+#### Comparisons between Germany in COVID-19 Spread
+![Comparisons between Germany in COVID-19 Spread](./COVID_52.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_53.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_54.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_55.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_56.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_57.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_58.png)
+![Comparisons between Germany in COVID-19 Spread](./COVID_59.png)
+
+### Correlations
+#### Pearson correlation
+![Pearson correlation](./COVID_60.png)
+
+#### Spearman correlation
+![Spearman correlation](./COVID_61.png)
 
 ### For further information:
 
@@ -109,10 +138,10 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 
 ```
 
-├── README.md                                               <- The top-level README for reviewers of this project.
-├── Netflix Recommendation System.ipynb                     <- narrative documentation of analysis in jupyter notebook
-├── netflix_titles.csv                                      <- Dataset
-└── images                                                  <- generated from code
+├── README.md                                                                                                                            <- The top-level README for reviewers
+├── covid-19-analysis-and-visualisations.html;covid19-eda-comparison-between-india-germany.ipynb;geospatial-demographics-analysis.ipynb  <- narrative documentation of analysis
+├── netflix_titles.csv                                                                                                                   <- Dataset
+└── images                                                                                                                               <- generated from code
 
 ```
 ## Citing :
@@ -120,10 +149,10 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 ```
 @misc{Shailesh:2020,
   Author = {Shailesh Dhama},
-  Title = {Netflix Recommendation System},
+  Title = {COVID-19 Trends in Deutschland},
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/Netflix%20Recommendation%20System.ipynb}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/geospatial-demographics-analysis.ipynb}}
 }
 ```
