@@ -111,15 +111,15 @@ de_state.*: Geospatial shape files for Germany's 16 federal states. Downloaded v
 #### Incremental Deaths vs Incremental Cases in Germany
 ![Incremental Deaths vs Incremental Cases in Germany](./COVID_51.png)
 
-#### Comparisons between Germany in COVID-19 Spread
-![Comparisons between Germany in COVID-19 Spread](./COVID_52.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_53.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_54.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_55.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_56.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_57.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_58.png)
-![Comparisons between Germany in COVID-19 Spread](./COVID_59.png)
+### COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_52.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_53.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_54.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_55.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_56.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_57.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_58.png)
+![COMPARISON BETWEEN GERMANY AND INDIA IN COVID-19 SPREAD](./COVID_59.png)
 
 ### Correlations
 #### Pearson correlation
